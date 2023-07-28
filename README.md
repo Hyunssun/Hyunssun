@@ -7,5 +7,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunssun&layout=compact&theme=dracula&hide=CSS,HTML" width="42%" />
 <br/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyunssun&t&bg_color=292A36&color=F6F6F1&line=FB6D94&point=F6F6F1&title_color=F6F6F1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyunssun&t&bg_color=292A36&color=F6F6F1&line=FB6D94&point=F6F6F1&title_color=F6F6F1&count_private=true" />
 </div>
